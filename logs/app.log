@@ -1,0 +1,12 @@
+[INFO ] 2021-08-03 18:05:25.284 [http-nio-8081-exec-4] Controller - 
+ NEW ADDRESS: 
+[INFO ] 2021-08-03 18:05:25.356 [http-nio-8081-exec-4] Controller - Algorithm{field1=[], field2=[romania], field3=[], field4=[Bacau], field5=[Pancesti]}
+[INFO ] 2021-08-03 18:05:25.362 [http-nio-8081-exec-4] Controller - [romania, Bacau, Pancesti]
+[INFO ] 2021-08-03 18:06:07.540 [http-nio-8081-exec-10] Controller - 
+ NEW ADDRESS: 
+[INFO ] 2021-08-03 18:06:07.540 [http-nio-8081-exec-10] Controller - Algorithm{field1=[], field2=[], field3=[], field4=[], field5=[Iași, Romania, Bacău, Bacau]}
+[INFO ] 2021-08-03 18:06:07.540 [http-nio-8081-exec-10] Controller - [Romania, Bacău, Bacau]
+[INFO ] 2021-08-03 18:06:19.493 [http-nio-8081-exec-4] Controller - 
+ NEW ADDRESS: 
+[INFO ] 2021-08-03 18:06:19.495 [http-nio-8081-exec-4] Controller - Algorithm{field1=[], field2=[], field3=[], field4=[], field5=[IASI, iasi, ro]}
+[INFO ] 2021-08-03 18:06:19.495 [http-nio-8081-exec-4] Controller - [ro, IASI, iasi]
