@@ -36,5 +36,5 @@ Autori:  Maria Gabriela Coteanu
 ![img_1.png](img_1.png)
 
 
-###OBS: 
+### OBS: 
 In this project I worked in pair with Narcis Stefan Barat, but he made only the deployment, but for this repository, I made it myself.
