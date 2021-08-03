@@ -21,7 +21,7 @@ Autori:  Maria Gabriela Coteanu
 
 #### :heavy_check_mark: Pentru a rula aplicația local, trebuie rulat serverul, deschis portul dat în browser (ex: localhost:8081 ).
 
-##### :heavy_check_mark: De asemenea, aplicația este încărcată în cloud, la adresa: https://correct-adress.herokuapp.com.
+##### :heavy_check_mark: De asemenea, aplicația este încărcată în cloud, la adresa: https://correct-the-address.herokuapp.com/.
 
 ##### :heavy_check_mark: Link-ul către documentația generată cu swagger: http://localhost:8081/swagger-ui.html
 
